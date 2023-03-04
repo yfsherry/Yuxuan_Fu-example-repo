@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T08:21:36.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nmsmuHM-zsLiH0Lmrdr5" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T08:22:29.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vVPfPI6fK-NzRDw4NOGh" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="886" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="3069" math="0" shadow="0">
       <root>
@@ -242,7 +242,7 @@
         <mxCell id="fRf1mxBCHzGcTCpwJjoB-66" value="Shipping service" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="491" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fRf1mxBCHzGcTCpwJjoB-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fRf1mxBCHzGcTCpwJjoB-68" value="&lt;b&gt;Order Data Store&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="1660" width="185" height="65" as="geometry" />
         </mxCell>
         <mxCell id="fRf1mxBCHzGcTCpwJjoB-69" value="Physical Inventory" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
