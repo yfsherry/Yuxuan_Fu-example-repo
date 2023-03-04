@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T08:29:56.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_yn5-x2FQTh_6-lj6Pky" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T08:34:41.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="a6tQ6RS-OVewPqUAqlRF" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="886" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="3069" math="0" shadow="0">
+    <mxGraphModel dx="1920" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="3069" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -197,8 +197,8 @@
         <mxCell id="fRf1mxBCHzGcTCpwJjoB-51" value="Customer Profile Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="1452" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fRf1mxBCHzGcTCpwJjoB-52" value="1. Each time customer register an account, information added to customer profile database&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. ML in cloud for recommendation&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Product listing based on recommending results (for accounts logged in)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. Shopping carts (in customer profile database,&amp;nbsp; with entry like which product this user saved as its favorite)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="63" y="2168" width="600" height="90" as="geometry" />
+        <mxCell id="fRf1mxBCHzGcTCpwJjoB-52" value="1. Each time customer register an account, information added to customer profile database&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. ML in cloud for recommendation&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Product listing based on recommending results (for accounts logged in)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. Shopping carts (in customer profile database,&amp;nbsp; with entry like which product this user saved as its favorite)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. Payment service (related to customer database, and inventory database)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6. Shipping service (related to inventory database, and send user with messages, and user accounts with shipping updates)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="75" y="2230" width="680" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fRf1mxBCHzGcTCpwJjoB-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -210,7 +210,7 @@
           <mxGeometry x="623" y="1302" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fRf1mxBCHzGcTCpwJjoB-58" value="Machine Learning for product&lt;br&gt;recommendation&lt;br&gt;- also update 4.product listing page&amp;nbsp;&lt;br&gt;&amp;nbsp; according to this section" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="1307" width="210" height="70" as="geometry" />
+          <mxGeometry x="595" y="1230" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fRf1mxBCHzGcTCpwJjoB-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fRf1mxBCHzGcTCpwJjoB-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
