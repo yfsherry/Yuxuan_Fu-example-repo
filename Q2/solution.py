@@ -3,13 +3,12 @@
 # with open('inputfile.csv', 'r') as infile:
 #     r = csv.reader(infile)
 # mydata = load_csv('inputfile.csv')
-with open(inputfile) as file:
-    lines = [line.rstrip() for line in file]
 
+n = int(input().strip())
 flag = True
 errorCodes = []
-n = int(lines[0])
-for line in lines[1:]:
+for i in range(n):
+    line = input()
     data= line.split(' ') 
     if data[1] == 'true': # 'isValid' variable
         continue
