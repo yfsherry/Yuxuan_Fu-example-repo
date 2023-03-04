@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T07:34:56.671Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qO9SqCcJctAYZUO8FPR-" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T07:42:42.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Pm58L4jZONlOJrPb8SPL" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1069" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="3069" math="0" shadow="0">
       <root>
@@ -122,16 +122,14 @@
         <mxCell id="fRf1mxBCHzGcTCpwJjoB-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="108" y="1811" width="571" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="fRf1mxBCHzGcTCpwJjoB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fRf1mxBCHzGcTCpwJjoB-20" target="fRf1mxBCHzGcTCpwJjoB-19">
+        <mxCell id="fRf1mxBCHzGcTCpwJjoB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="fRf1mxBCHzGcTCpwJjoB-19">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380.0769230769231" y="1737" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="380" y="1800" />
               <mxPoint x="380" y="1800" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fRf1mxBCHzGcTCpwJjoB-20" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="355" y="1700" width="50" height="37" as="geometry" />
         </mxCell>
         <mxCell id="fRf1mxBCHzGcTCpwJjoB-23" value="&lt;b&gt;Administrator Control&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="1700" width="150" height="30" as="geometry" />
@@ -144,6 +142,24 @@
             <mxPoint x="100" y="310" as="sourcePoint" />
             <mxPoint x="430" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fRf1mxBCHzGcTCpwJjoB-31" value="&lt;b&gt;Role&lt;/b&gt;&lt;br&gt;Account&lt;b&gt; &lt;/b&gt;Manager" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1826" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fRf1mxBCHzGcTCpwJjoB-32" value="&lt;b&gt;Users&lt;/b&gt;&lt;br&gt;Full Accounts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="525" y="1835" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fRf1mxBCHzGcTCpwJjoB-39" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_management_account2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="1860" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fRf1mxBCHzGcTCpwJjoB-35" value="1. access analytics&lt;br&gt;2. edit all onsites&lt;br&gt;3. view reviews&lt;br&gt;4. respond to reviews&lt;br&gt;" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;align=left;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="179" y="1882" width="111" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="fRf1mxBCHzGcTCpwJjoB-36" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="533" y="1884" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fRf1mxBCHzGcTCpwJjoB-38" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_management_account;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354.64" y="1683" width="60.72" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
