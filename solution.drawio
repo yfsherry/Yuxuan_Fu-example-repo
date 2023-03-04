@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T08:28:41.372Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="i9VbUN8tYCoLOFqxUakL" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T08:29:56.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_yn5-x2FQTh_6-lj6Pky" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="886" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="3069" math="0" shadow="0">
       <root>
@@ -271,6 +271,9 @@
         </mxCell>
         <mxCell id="fRf1mxBCHzGcTCpwJjoB-80" value="Frontend webpages&lt;br&gt;(mobile/laptop)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="49" y="246" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fRf1mxBCHzGcTCpwJjoB-81" value="Actual inventory database" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="667" y="651" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
